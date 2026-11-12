@@ -1,0 +1,48 @@
+import{
+  t as e
+}
+from"./rolldown-runtime.OA-FSkXT.mjs";
+import{
+  n as t,t as n
+}
+from"./shared-lib.BKalDlu_.mjs";
+function r(e,n){
+  return{
+    breakpoints:[{
+      hash:`72rtr7`,mediaQuery:`(min-width: 1200px)`
+    },{
+      hash:`1t5x8dn`,mediaQuery:`(min-width: 1200px) and (max-width: 1199.98px)`
+    },{
+      hash:`dsxqep`,mediaQuery:`(min-width: 992px) and (max-width: 1199.98px)`
+    },{
+      hash:`1d7c730`,mediaQuery:`(min-width: 768px) and (max-width: 991.98px)`
+    },{
+      hash:`1slso0x`,mediaQuery:`(max-width: 767.98px)`
+    }],description:t(e,n).description,elements:{
+      bPRlM5v_3:`projects`,BZchDvhMe:`hero`,d2en67I0l:`service-2`,GqS2yBBGz:`about`,jUxCuYDrA:`about-2`,O1EWxm2cI:`services`,V8zY16Byd:`topprojects`,wa1OpPtbn:`main-1`,wWxpymqOt:`faq`,ymGWWWUM9:`pricing`
+    },framerSearch:{
+      index:!0
+    },robots:`max-image-preview:large`,serializationId:`framer-b9wxR`,title:t(e,n).title||`Home`,viewport:`width=device-width`
+  }
+}
+var i,a,o=e((()=>{
+  n(),i=1,a={
+    exports:{
+      default:{
+        type:`function`,annotations:{
+          framerContractVersion:`1`
+        }
+      },metadataVersion:{
+        type:`variable`,annotations:{
+          framerContractVersion:`1`
+        }
+      },__FramerMetadata__:{
+        type:`variable`
+      }
+    }
+  }
+}));
+export{
+  i,o as n,r,a as t
+};
+//# sourceMappingURL=augiA20Il.BU7z8NyW.mjs.map
